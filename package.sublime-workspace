@@ -1,0 +1,295 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"reverse()	Array"
+			],
+			[
+				"sr",
+				"script	Tag"
+			],
+			[
+				"functio",
+				"function without name"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Node.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/Node.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 301.0,
+		"last_filter": "js",
+		"selected_items":
+		[
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"nodejs",
+				"Nodejs::Build Completions"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"jade",
+				"Set Syntax: Jade"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"insc",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"Package Control: Install Package"
+			],
+			[
+				" install",
+				"Package Control: Install Package"
+			],
+			[
+				"install packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 384.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"npm install -g jsxhint",
+			"pwd",
+			"npm install -g babel",
+			"npm",
+			"node -version",
+			"nodejs",
+			"bodejs",
+			"node",
+			"npm install -g babel",
+			"npm install -g jsxhint",
+			"babel",
+			"cd Document/Workspace/sublime",
+			"cd ~/Library/Application\\ Support/Sublime\\ Text\\ 2/Packages/",
+			"node -v",
+			"sublime.log_commands(True)",
+			"node --use-strict --harmony test",
+			"node --use-strict --harmony test.js",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp =   sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/yangyanmei/Documents/Workspace/react/react-es6/root.jsx",
+		"/Users/yangyanmei/Documents/Workspace/react/react-es6/views/home.html",
+		"/Users/yangyanmei/Documents/Workspace/react/react-es6/webpack.config.js",
+		"/Users/yangyanmei/Documents/Workspace/react/react-es6/package.json",
+		"/Users/yangyanmei/Documents/Workspace/react/react-es6/views:home.html",
+		"/Users/yangyanmei/Documents/Workspace/react/react-es6/lib:render.js",
+		"/Users/yangyanmei/Documents/Workspace/react/react-es6/index.js",
+		"/Users/yangyanmei/Documents/other/aminer系统的相关信息/affiliation.jade",
+		"/Users/yangyanmei/Documents/other/aminer系统的相关信息/main备份/main.jade",
+		"/Users/yangyanmei/Library/Application Support/Sublime Text 3/Packages/User/Nodejs.sublime-settings",
+		"/Users/yangyanmei/Documents/other/react.js",
+		"/Users/yangyanmei/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/yangyanmei/Library/Application Support/Sublime Text 3/Packages/User/JsFormat.sublime-settings",
+		"/Users/yangyanmei/Documents/other/sublime.js",
+		"/Users/yangyanmei/Documents/other/sublime.jade",
+		"/Users/yangyanmei/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/yangyanmei/Downloads/test.js",
+		"/Users/yangyanmei/Library/Application Support/Sublime Text 3/Packages/User/JavaScript.sublime-build",
+		"/Users/yangyanmei/Documents/other/20160419metting.key",
+		"/Users/yangyanmei/Library/Application Support/Sublime Text 3/Packages/User/Side Bar Folders.sublime-settings",
+		"/Users/yangyanmei/Documents/other/test.jade",
+		"/Users/yangyanmei/Library/Application Support/Sublime Text 3/Packages/User/Node.sublime-build",
+		"/Users/yangyanmei/Documents/other/test.js",
+		"/Users/yangyanmei/Documents/baidu.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"spell_check",
+			"script",
+			"button",
+			"class",
+			"++)\n",
+			"html",
+			"\n</html>",
+			"meeting"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/JavaScript.sublime-build",
+	"project": "package.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"<html>"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/Workspace/react/react-es6/index.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}
