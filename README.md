@@ -23,7 +23,7 @@
   <p> -index.js 服务器脚本</p>
 </div  
 <br>
-<h3><strong>准备开发环境:</strong><h3>
+<h3><strong>准备开发环境:</strong></h3>
 <p>构建一个简单的koa服务器</p>
   <p style="text-indent:2px:">安装相关依赖：</p>
   <div style="text-indent:4px:">
