@@ -1,6 +1,6 @@
 # hello-world
 参考来源：<a href="http://wwsun.github.io/posts/react-with-es6-part-1.html">http://wwsun.github.io/posts/react-with-es6-part-1.html</a><br>
-工具说明：<br>
+<h3><strong>工具说明</strong>：</h3>
   &nbsp;&nbsp;&nbsp;&nbsp;Babel V6<br>
   &nbsp;&nbsp;&nbsp;&nbsp;Node v4<br>
   &nbsp;&nbsp;&nbsp;&nbsp;Koa v1<br>
